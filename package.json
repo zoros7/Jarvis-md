@@ -1,5 +1,5 @@
 {
-    "name": "Jarvis-md",
+    "name": "SPYRO-SER",
     "version": "2.0.0",
     "description": "A simple WhatsApp Bot Based On WhiskeySockets/Baileys",
     "main": "index.js",
@@ -17,7 +17,7 @@
         "@ffmpeg-installer/linux-x64": "^4.1.0",
         "@hapi/boom": "^10.0.1",
         "translate-google-api": "^1.0.4",
-        "@whiskeysockets/baileys": "Loki-Xer/Baileys#bc838b38aed3d83b23ece6bd97851d435c08f515",
+        "@whiskeysockets/baileys": "Spyro-ser/Baileys#bc838b38aed3d83b23ece6bd97851d435c08f515",
         "awesome-phonenumber": "^6.4.0",
         "axios": "^1.7.3",
         "browser-id3-writer": "^4.4.0",
